@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MotionSound</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <color name="Black">#000000</color>
+    <color name="White">#FFFFFF</color>
+    <color name="bcolor">#AAAAAA</color>
+    
+    <string name="authority">cop4656.oaksford.motionsound.provider</string>
+	<string name="read_permission">cop4656.oaksford.motionsound.provider.permission.READ_PERMISSION</string>
+    <string name="write_permission">cop4656.oaksford.motionsound.provider.permission.WRITE_PERMISSION</string>
+
+</resources>
